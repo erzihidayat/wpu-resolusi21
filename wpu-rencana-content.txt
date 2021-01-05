@@ -1,6 +1,9 @@
 RENCANA KONTENT WPU 
 
--java script
+-javascript
+* es 6
+* framework javascrip 
+
 -php framework
 -interview
 -vlog
